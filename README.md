@@ -1,10 +1,11 @@
 ## Hi 👋, I'm Barbara Lascosck
 
+💻 Engenheira Eletricista | Python | Análise de Dados | Automação //
 💻 Electrical Engineer | Python | Data Analysis | Automation  
 
 ---
 
-## 👩‍💻 Versão em Português
+## Versão em Português
 
 ### 🌐 Onde me encontrar
 
